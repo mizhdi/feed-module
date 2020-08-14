@@ -32,8 +32,7 @@
   ],
   "dependencies": {
     "async-cache": "^1.1.0",
-    "consola": "^2.12.1",
-    "feed": "github:josephsaw/feed#feature/custom-xml-item"
+    "consola": "^2.12.1"
   },
   "devDependencies": {
     "@commitlint/cli": "latest",
