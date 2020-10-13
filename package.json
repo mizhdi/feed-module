@@ -33,6 +33,7 @@
   "dependencies": {
     "async-cache": "^1.1.0",
     "consola": "^2.12.1",
+    "jstoxml": "^2.0.0",
     "xml-js": "^1.6.11"
   },
   "devDependencies": {
